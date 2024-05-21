@@ -1,0 +1,11 @@
+/*? ------------------------------- -general/global- css ------------------------------ */
+img {
+    width: 100%;
+    height: auto;
+}
+span {
+    display: inline-block;
+}
+.cursor-pointer {
+    cursor: pointer;
+}

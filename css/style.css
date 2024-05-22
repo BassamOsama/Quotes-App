@@ -9,3 +9,21 @@ span {
 .cursor-pointer {
     cursor: pointer;
 }
+/*? --------------------------------- section -------------------------------- */
+h1 {
+    font-size: 80px;
+    font-family: Impact, "Arial Narrow Bold", sans-serif;
+    font-weight: bold;
+}
+p {
+    font-size: 35px;
+    font-family: "Times New Roman", Times, serif;
+}
+button {
+    width: 250px;
+    height: 80px;
+}
+.btn:hover {
+    background-color: green;
+    border-color: green;
+}
